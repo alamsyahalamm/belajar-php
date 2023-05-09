@@ -8,12 +8,11 @@
 </head>
 <body>
     <?php
+    // tagap 1
     echo "belajar";
-
     echo "\n";
-
     // tagap 2
-    $name = "belajar PHP menggunakanan var "
+    $name = "belajar PHP menggunakanan var ";
     echo $name
     ?>
 </body>
